@@ -20,7 +20,8 @@ E-commerce stores, business websites, and frontend projects
 💬 **Ask me about:**  
 Shopify development, WordPress, UI/UX, and responsive web design
 
-⚡ **Fun fact:** I enjoy turning complex ideas into simple, clean interfaces ✨
+⚡ **Fun fact:**
+I enjoy turning complex ideas into simple, clean interfaces ✨
 
 
 🔗 I am a Content Creator. 😊😊

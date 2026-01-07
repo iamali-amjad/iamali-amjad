@@ -1,16 +1,27 @@
-Hi 👋, I'm Ali Amjad
-Frontend Web Developer | Shopify & WordPress | Responsive, clean UI from Pakistan
+Hi 👋, I'm **Ali Amjad**  
+**Frontend Web Developer | Shopify & WordPress Specialist**  
 
-Email Me 👉 ✉️ aliamjd164@gmail.com For Collaboration/Project or Anything Else. 😊😊
+I help businesses grow by building **fast, responsive, and conversion-focused websites** that look great and work smoothly on all devices.
 
-🔭 I’m currently working on: Building responsive and business-focused frontend web experiences  
-🌱 I’m currently learning: Modern JavaScript patterns and performance-focused UI development  
-👯 I’m looking to collaborate on: Shopify, WordPress, and frontend web projects  
-🤔 I’m looking for help with: Creating scalable and optimized frontend systems  
-💬 Ask me about: Frontend web development, UI/UX, Shopify, WordPress  
-📫 How to reach me: your-email@example.com  
-😄 Pronouns: He / Him  
-⚡ Fun fact: I love tech—and tech never lets me stop learning 😄
+📩 **Contact:** aliamjd164@gmail.com  
+🤝 Available for freelance projects, collaborations, and remote work
+
+---
+
+🔭 **Currently working on:**  
+High-quality frontend experiences for Shopify and WordPress platforms
+
+🌱 **Currently learning:**  
+Advanced JavaScript, performance optimization, and scalable UI systems
+
+👯 **Looking to collaborate on:**  
+E-commerce stores, business websites, and frontend projects
+
+💬 **Ask me about:**  
+Shopify development, WordPress, UI/UX, and responsive web design
+
+⚡ **Fun fact:** I enjoy turning complex ideas into simple, clean interfaces ✨
+
 
 🔗 I am a Content Creator. 😊😊
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
